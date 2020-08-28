@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ce27b0-89b6-41b8-b721-5427fc813877" name="Default Changelist" comment="" />
+    <list default="true" id="26ce27b0-89b6-41b8-b721-5427fc813877" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +55,7 @@
       <updated>1598537104737</updated>
       <workItem from="1598537105846" duration="7831000" />
       <workItem from="1598638309685" duration="783000" />
-      <workItem from="1598646575627" duration="4022000" />
+      <workItem from="1598646575627" duration="5062000" />
     </task>
     <task id="LOCAL-00001" summary="header layout website">
       <created>1598648747626</created>
@@ -75,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598651006437</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="indents header website">
+      <created>1598651412155</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598651412155</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,17 +95,18 @@
     <MESSAGE value="header layout website" />
     <MESSAGE value="font header layout website" />
     <MESSAGE value="stylization header website" />
-    <option name="LAST_COMMIT_MESSAGE" value="stylization header website" />
+    <MESSAGE value="indents header website" />
+    <option name="LAST_COMMIT_MESSAGE" value="indents header website" />
   </component>
   <component name="WindowStateProjectService">
     <state x="195" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598561687480">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="195" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1598561687480" />
-    <state x="488" y="10" width="750" height="722" key="CommitChangelistDialog2" timestamp="1598651005860">
+    <state x="488" y="10" width="750" height="722" key="CommitChangelistDialog2" timestamp="1598651411532">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="488" y="10" width="750" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598651005860" />
+    <state x="488" y="10" width="750" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598651411532" />
     <state x="0" y="345" key="FileChooserDialogImpl" timestamp="1598561566965">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -104,10 +115,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="366" y="127" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1598561653996" />
-    <state x="369" y="215" key="Vcs.Push.Dialog.v2" timestamp="1598651008595">
+    <state x="369" y="215" key="Vcs.Push.Dialog.v2" timestamp="1598651414446">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="369" y="215" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598651008595" />
+    <state x="369" y="215" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598651414446" />
     <state x="397" y="195" key="run.anything.popup" timestamp="1598561694338">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
