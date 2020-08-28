@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ce27b0-89b6-41b8-b721-5427fc813877" name="Default Changelist" comment="" />
+    <list default="true" id="26ce27b0-89b6-41b8-b721-5427fc813877" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ggXFPqdsWEf6A6CmFNfCu7VgPo" />
   <component name="ProjectViewState">
@@ -33,7 +40,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +54,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598537104737</updated>
-      <workItem from="1598537105846" duration="5889000" />
+      <workItem from="1598537105846" duration="7831000" />
+      <workItem from="1598638309685" duration="783000" />
+      <workItem from="1598646575627" duration="2004000" />
     </task>
     <servers />
   </component>
@@ -55,13 +64,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="345" key="FileChooserDialogImpl" timestamp="1598539313507">
+    <state x="195" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598561687480">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="0" y="345" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1598539313507" />
-    <state x="366" y="127" width="981" height="707" key="SettingsEditor" timestamp="1598556018691">
+    <state x="195" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1598561687480" />
+    <state x="0" y="345" key="FileChooserDialogImpl" timestamp="1598561566965">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="366" y="127" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1598556018691" />
+    <state x="0" y="345" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1598561566965" />
+    <state x="366" y="127" width="981" height="707" key="SettingsEditor" timestamp="1598561653996">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="366" y="127" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1598561653996" />
+    <state x="397" y="195" key="run.anything.popup" timestamp="1598561694338">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="397" y="195" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1598561694338" />
   </component>
 </project>
