@@ -5,6 +5,7 @@ body {
 }
 
 .header {
+    position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -40,5 +41,13 @@ body {
     text-transform: uppercase;
 
     color: #FFFFFF;
+}
 
+.header-arrow {
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translate(-50%, 0);
 }
