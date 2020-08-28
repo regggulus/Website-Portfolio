@@ -15,3 +15,24 @@ body {
     height: 100vh;
     background-color: darksalmon;
 }
+
+.header-tittle {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 130%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.header-subtitle {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 150%;
+
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+}
