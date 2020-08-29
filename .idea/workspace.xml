@@ -40,7 +40,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,7 +56,8 @@
       <updated>1598537104737</updated>
       <workItem from="1598537105846" duration="7831000" />
       <workItem from="1598638309685" duration="783000" />
-      <workItem from="1598646575627" duration="6936000" />
+      <workItem from="1598646575627" duration="7150000" />
+      <workItem from="1598703183699" duration="3722000" />
     </task>
     <task id="LOCAL-00001" summary="header layout website">
       <created>1598648747626</created>
@@ -93,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598652190606</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="icon arrow header website">
+      <created>1598654327220</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598654327220</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,29 +113,30 @@
     <MESSAGE value="stylization header website" />
     <MESSAGE value="indents header website" />
     <MESSAGE value="background header website" />
-    <option name="LAST_COMMIT_MESSAGE" value="background header website" />
+    <MESSAGE value="icon arrow header website" />
+    <option name="LAST_COMMIT_MESSAGE" value="icon arrow header website" />
   </component>
   <component name="WindowStateProjectService">
     <state x="195" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598561687480">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="195" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1598561687480" />
-    <state x="488" y="10" width="750" height="722" key="CommitChangelistDialog2" timestamp="1598652190040">
+    <state x="488" y="10" width="750" height="722" key="CommitChangelistDialog2" timestamp="1598654326636">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="488" y="10" width="750" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598652190040" />
+    <state x="488" y="10" width="750" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598654326636" />
     <state x="0" y="345" key="FileChooserDialogImpl" timestamp="1598561566965">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="0" y="345" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1598561566965" />
-    <state x="366" y="127" width="981" height="707" key="SettingsEditor" timestamp="1598561653996">
+    <state x="272" y="103" width="981" height="707" key="SettingsEditor" timestamp="1598708248355">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="366" y="127" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1598561653996" />
-    <state x="369" y="215" key="Vcs.Push.Dialog.v2" timestamp="1598652196276">
+    <state x="272" y="103" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1598708248355" />
+    <state x="369" y="215" key="Vcs.Push.Dialog.v2" timestamp="1598654328834">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="369" y="215" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598652196276" />
+    <state x="369" y="215" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598654328834" />
     <state x="397" y="195" key="run.anything.popup" timestamp="1598561694338">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
