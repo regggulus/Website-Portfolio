@@ -74,11 +74,21 @@ body {
     text-align: center;
     color: #000000;
 }
+.portfolio-cards-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 .card {
+    margin-bottom: 30px;
     padding: 20px;
     max-width: 540px;
     background-color: white;
 }
+.card:last-child, .card:nth-last-child(2)  {
+    margin-bottom: 0;
+}
+
 .card-img {
     margin-botton: 20px;
 }
