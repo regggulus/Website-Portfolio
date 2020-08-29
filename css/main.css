@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
@@ -69,6 +72,29 @@ body {
     font-size: 46px;
     line-height: 130%;
     text-align: center;
+    color: #000000;
+}
+.card {
+    padding: 20px;
+    max-width: 540px;
+    background-color: white;
+}
+.card-img {
+    margin-botton: 20px;
+}
+
+.card-title {
+    margin: 0;
+    margin-bottom: 13px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 130%;
+    color: #000000;
+}
+.card p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 130%;
     color: #000000;
 
 }
