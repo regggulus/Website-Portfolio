@@ -9,13 +9,10 @@ body {
 
 .container {
     max-width: 1110px;
-    background-color: #988edd;
     margin-left: auto;
     margin-right: auto;
 }
-.none {
-    display: none !important;
-}
+
     /* Header   */
 .header {
     position: relative;
@@ -63,11 +60,12 @@ body {
 }
     /*Portfolio*/
 .portfolio {
-    background-color: darkseagreen;
     padding-top: 80px;
     padding-botton: 115px;
 }
 .portfolio-header {
+    margin: 0;
+    margin-bottom: 70px;
     font-weight: 700;
     font-size: 46px;
     line-height: 130%;
@@ -84,6 +82,7 @@ body {
     padding: 20px;
     max-width: 540px;
     background-color: white;
+    box-shadow: 0px 10px 40px rgba(126, 155, 189, 0.35);
 }
 .card:last-child, .card:nth-last-child(2)  {
     margin-bottom: 0;
