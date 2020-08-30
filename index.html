@@ -4,100 +4,108 @@
     <meta charset="UTF-8">
     <title>Portfolio website</title>
     <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="./css/media.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
 
 </head>
 <body>
-<div class="header">
+<div class="block"></div>
+<header class="header">
     <h1 class="header-tittle">Егор Романенко</h1>
     <p class="header-subtitle">фрилансер, веб-разработчик, создание сайтов</p>
     <div class="header-arrow">
         <img src="./img/header/chevron-down.svg" alt="Arrow">
     </div>
-</div>
+</header>
 
-    <div class="portfolio">
+<main>
+    <section class="portfolio">
         <div class="container">
             <h2 class="portfolio-header">Портфолио</h2>
-
             <!-- portfolio-cards-wrapper-->
             <div class="portfolio-cards-wrapper">
+                <!--Card 1-->
+                <div class="card">
+                    <a href="forest-travel.html" class="card-link">
+                        <img class="card-img" src="./img/portfolio/forest.jpg" alt="Многостраничный сайт">
+                        <h3 class="card-title">Многостраничный сайт</h3>
+                        <p>Верстка многостраничного сайта.</p>
+                    </a>
+                </div>
+                <!--//Card-->
+                <!--Card 2-->
+                <div class="card">
+                    <a href="forest-travel.html" class="card-link">
+                        <img class="card-img" src="./img/portfolio/unit.jpg" alt="Многостраничный сайт">
+                        <h3 class="card-title">Адаптивный лендинг</h3>
+                        <p>Верстка многостраничного сайта.</p>
+                    </a>
+                </div>
+                <!--//Card-->
+                <!--Card 3-->
+                <div class="card">
+                    <a href="forest-travel.html" class="card-link">
+                        <img class="card-img" src="./img/portfolio/portfolio.jpg" alt="Многостраничный сайт">
+                        <h3 class="card-title">Личный сайт </h3>
+                        <p>Верстка многостраничного сайта.</p>
+                    </a>
+                </div>
+                <!--//Card-->
+                <!--Card 4-->
+                <div class="card">
+                    <a href="forest-travel.html" class="card-link">
+                        <img class="card-img" src="./img/portfolio/quantum.jpg" alt="Многостраничный сайт">
+                        <h3 class="card-title">Интернет магазин</h3>
+                        <p>Верстка многостраничного сайта.</p>
+                    </a>
+                </div>
+                <!--//Card-->
+            </div>
+        </div>
+    </section>
+</main>
+<footer class="footer">
+    <div class="container">
+        <div class="footer-row">
 
-            <!--Card 1-->
-            <div class="card">
-                <img class="card-img" src="./img/portfolio/forest.jpg" alt="Многостраничный сайт">
-                <h3 class="card-title">Многостраничный сайт</h3>
-                <p>Верстка многостраничного сайта.</p>
+            <!--footer-copyright-->
+            <div class="footer-copyright footer-col">
+                <div class="footer-copyright-name">© Егор Романенко</div>
+                <p>HTML верстка и разработка сайтов</p>
             </div>
-            <!--//Card-->
+            <!--footer-copyright-->
 
-            <!--Card 2-->
-            <div class="card">
-                <img class="card-img" src="./img/portfolio/unit.jpg" alt="Многостраничный сайт">
-                <h3 class="card-title">Адаптивный лендинг</h3>
-                <p>Верстка многостраничного сайта.</p>
+            <!--Footer-icons-->
+            <div class="footer-icons footer-col">
+                <p>Мои профили в социальных сетях:</p>
+                <div class="footer-icons-row">
+                    <a hrev="#">
+                        <img src="./img/icons/instagram.svg" alt="">
+                    </a>
+                    <a hrev="#">
+                        <img src="./img/icons/facebook.svg" alt="">
+                    </a>
+                    <a hrev="#">
+                        <img src="./img/icons/vk.svg" alt="">
+                    </a>
+                    <a hrev="#">
+                        <img src="./img/icons/linkedin.svg" alt="">
+                    </a>
+                    <a hrev="#">
+                        <img src="./img/icons/github.svg" alt="">
+                    </a>
+                </div>
             </div>
-            <!--//Card-->
+            <!--Footer-icons-->
+            <!--footer-contacts-->
+            <div class="footer-contacts footer-col">
+                <a href="https://vk.me/romanenkoegor_official" class="footer-button">Связаться Вконтакте</a>
+                <p>Напишите мне, чтобы заказать или узнать стоимость верстки вашего проекта.</p>
+            </div>
+            <!--footer-contacts-->
 
-            <!--Card 3-->
-            <div class="card">
-                <img class="card-img" src="./img/portfolio/portfolio.jpg" alt="Многостраничный сайт">
-                <h3 class="card-title">Личный сайт </h3>
-                <p>Верстка многостраничного сайта.</p>
-            </div>
-            <!--//Card-->
-
-            <!--Card 4-->
-            <div class="card">
-                <img class="card-img" src="./img/portfolio/quantum.jpg" alt="Многостраничный сайт">
-                <h3 class="card-title">Интернет магазин</h3>
-                <p>Верстка многостраничного сайта.</p>
-            </div>
-            <!--//Card-->
-            </div>
         </div>
     </div>
-    <div class="footer">
-        <div class="container">
-            <div class="footer-row">
-                <!--footer-copyright-->
-                <div class="footer-copyright footer-col">
-                    <div class="footer-copyright-name">© Егор Романенко</div>
-                    <p>HTML верстка и разработка сайтов</p>
-                </div>
-                <!--footer-copyright-->
-
-                <!--Footer-icons-->
-                <div class="footer-icons footer-col">
-                    <p>Мои профили в социальных сетях:</p>
-                    <div class="footer-icons-row">
-                        <a hrev="#">
-                        <img src="./img/icons/instagram.svg" alt="">
-                        </a>
-                        <a hrev="#">
-                        <img src="./img/icons/facebook.svg" alt="">
-                        </a>
-                        <a hrev="#">
-                        <img src="./img/icons/vk.svg" alt="">
-                        </a>
-                        <a hrev="#">
-                        <img src="./img/icons/linkedin.svg" alt="">
-                        </a>
-                        <a hrev="#">
-                        <img src="./img/icons/github.svg" alt="">
-                        </a>
-                    </div>
-                </div>
-                <!--Footer-icons-->
-                <!--footer-contacts-->
-                <div class="footer-contacts footer-col">
-                    <a href="#" class="footer-button">Связаться Вконтакте</a>
-                    <p>Напишите мне, чтобы заказать или узнать стоимость верстки вашего проекта.</p>
-                </div>
-                <!--footer-contacts-->
-
-            </div>
-        </div>
-</div>
+</footer>
 </body>
 </html>

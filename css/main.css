@@ -8,15 +8,16 @@ body {
     color: #000000;
 
 }
-
-.none {
-    display: none !important;
+img {
+    max-width: 100%;
 }
 
 .container {
-    max-width: 1110px;
+    max-width: 1140px;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 /* Header   */
@@ -89,10 +90,27 @@ body {
 
 .card {
     margin-bottom: 30px;
-    padding: 20px;
     max-width: 540px;
     background-color: white;
     box-shadow: 0px 10px 40px rgba(126, 155, 189, 0.35);
+    transition: transform 0.2s ease-in;
+}
+
+.card:hover {
+    transform: translateY(-15px);
+}
+
+.card-link {
+    padding: 20px;
+    display: block;
+    color: black;
+    text-decoration: none;
+    transition: color 0.2s ease-in;
+
+}
+
+.card-link:hover {
+    color: #275bec;
 }
 
 .card:last-child, .card:nth-last-child(2) {
@@ -109,14 +127,13 @@ body {
     font-weight: 600;
     font-size: 24px;
     line-height: 130%;
-    color: #000000;
+
 }
 
 .card p {
     margin: 0;
     font-size: 16px;
     line-height: 130%;
-    color: #000000;
 }
 
 /*Footer*/
@@ -184,6 +201,13 @@ body {
     font-size: 16px;
     text-transform: uppercase;
     text-decoration: none;
+
+    transition: all 0.2s ease-in;
+}
+
+.footer-button:hover {
+    background-color: white;
+    color: #1E4776;
 }
 
 .footer-contacts p {
@@ -208,15 +232,16 @@ body {
 }
 
 .project-img {
-margin-bottom: 70px;
+    margin-bottom: 70px;
 }
 
 .project-description {
     margin: 0 auto 60px;
-max-width: 730px;
+    max-width: 730px;
     margin-bottom: 60px;
 
 }
+
 .project-description p {
     margin-top: 0;
     margin-bottom: 15px;
@@ -224,6 +249,7 @@ max-width: 730px;
     line-height: 1.5;
 
 }
+
 .project-btn-black {
     display: inline-block;
     height: 60px;
@@ -237,4 +263,12 @@ max-width: 730px;
     font-size: 16px;
     text-transform: uppercase;
     text-decoration: none;
+
+    transition: all 0.2s ease-in;
+
+}
+
+.project-btn-black:hover {
+    background-color: #275bec;
+    color: white;
 }
