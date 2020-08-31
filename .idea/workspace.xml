@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26ce27b0-89b6-41b8-b721-5427fc813877" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -60,7 +58,7 @@
       <workItem from="1598646575627" duration="7150000" />
       <workItem from="1598703183699" duration="9573000" />
       <workItem from="1598781701941" duration="19496000" />
-      <workItem from="1598865892527" duration="1524000" />
+      <workItem from="1598865892527" duration="2171000" />
     </task>
     <task id="LOCAL-00001" summary="header layout website">
       <created>1598648747626</created>
@@ -174,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598819725610</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Cover video in portfolio website">
+      <created>1598868544118</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1598868544118</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,17 +202,18 @@
     <MESSAGE value="implementation of an internal page for the site in portfolio website" />
     <MESSAGE value="implementation of the button for the inner page&#10; in portfolio website" />
     <MESSAGE value="mobile adaptation in portfolio website" />
-    <option name="LAST_COMMIT_MESSAGE" value="mobile adaptation in portfolio website" />
+    <MESSAGE value="Cover video in portfolio website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cover video in portfolio website" />
   </component>
   <component name="WindowStateProjectService">
     <state x="195" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598561687480">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="195" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1598561687480" />
-    <state x="487" y="56" width="750" height="722" key="CommitChangelistDialog2" timestamp="1598819724903">
+    <state x="487" y="56" width="750" height="722" key="CommitChangelistDialog2" timestamp="1598868543448">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="487" y="56" width="750" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598819724903" />
+    <state x="487" y="56" width="750" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598868543448" />
     <state x="0" y="345" key="FileChooserDialogImpl" timestamp="1598561566965">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -216,10 +222,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="272" y="103" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1598708248355" />
-    <state x="369" y="215" key="Vcs.Push.Dialog.v2" timestamp="1598819727342">
+    <state x="369" y="215" key="Vcs.Push.Dialog.v2" timestamp="1598868545978">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="369" y="215" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598819727342" />
+    <state x="369" y="215" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598868545978" />
     <state x="397" y="195" key="run.anything.popup" timestamp="1598561694338">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
