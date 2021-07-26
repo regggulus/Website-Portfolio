@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26ce27b0-89b6-41b8-b721-5427fc813877" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appStore.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/arrow/chevron-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/arrow/down-chevron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icons/vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/imgProjects/Screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/imgProjects/Screenshot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/imgProjects/kruzhka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/imgProjects/mashina.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/imgProjects/noutbuk_chashka_ochki_rastenie_114948_1920x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/video/WoodsCover.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/video/video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personalSite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsiveLandingPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forest-travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/forest-travel.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,14 +45,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ggXFPqdsWEf6A6CmFNfCu7VgPo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,6 +70,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\portfolio\website-business-сard\Website-Portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\portfolio\website-business-сard\Website-Portfolio\img\icons" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -59,6 +96,7 @@
       <workItem from="1598703183699" duration="9573000" />
       <workItem from="1598781701941" duration="19496000" />
       <workItem from="1598865892527" duration="2171000" />
+      <workItem from="1627312880053" duration="7083000" />
     </task>
     <task id="LOCAL-00001" summary="header layout website">
       <created>1598648747626</created>
@@ -185,7 +223,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="header layout website" />
     <MESSAGE value="font header layout website" />
     <MESSAGE value="stylization header website" />
@@ -204,35 +254,5 @@
     <MESSAGE value="mobile adaptation in portfolio website" />
     <MESSAGE value="Cover video in portfolio website" />
     <option name="LAST_COMMIT_MESSAGE" value="Cover video in portfolio website" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="195" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598561687480">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="195" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1598561687480" />
-    <state x="487" y="56" width="750" height="722" key="CommitChangelistDialog2" timestamp="1598868543448">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="487" y="56" width="750" height="722" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598868543448" />
-    <state x="0" y="345" key="FileChooserDialogImpl" timestamp="1598561566965">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="0" y="345" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1598561566965" />
-    <state x="272" y="103" width="981" height="707" key="SettingsEditor" timestamp="1598708248355">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="272" y="103" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1598708248355" />
-    <state x="369" y="215" key="Vcs.Push.Dialog.v2" timestamp="1598868545978">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="369" y="215" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598868545978" />
-    <state x="397" y="195" key="run.anything.popup" timestamp="1598561694338">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="397" y="195" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1598561694338" />
-    <state x="436" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1598715641110">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="436" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1598715641110" />
   </component>
 </project>
