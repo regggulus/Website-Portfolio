@@ -4,30 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ce27b0-89b6-41b8-b721-5427fc813877" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appStore.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/arrow/chevron-down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/arrow/down-chevron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icons/vk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/imgProjects/Screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/imgProjects/Screenshot2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/imgProjects/kruzhka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/imgProjects/mashina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/imgProjects/noutbuk_chashka_ochki_rastenie_114948_1920x1080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/video/WoodsCover.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/video/video.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personalSite.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/responsiveLandingPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    <list default="true" id="26ce27b0-89b6-41b8-b721-5427fc813877" name="Default Changelist" comment="portfolio website">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forest-travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/forest-travel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +74,7 @@
       <workItem from="1598703183699" duration="9573000" />
       <workItem from="1598781701941" duration="19496000" />
       <workItem from="1598865892527" duration="2171000" />
-      <workItem from="1627312880053" duration="7083000" />
+      <workItem from="1627312880053" duration="7813000" />
     </task>
     <task id="LOCAL-00001" summary="header layout website">
       <created>1598648747626</created>
@@ -217,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598868544118</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="portfolio website">
+      <created>1627321872538</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1627321872538</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +238,7 @@
     <MESSAGE value="implementation of the button for the inner page&#10; in portfolio website" />
     <MESSAGE value="mobile adaptation in portfolio website" />
     <MESSAGE value="Cover video in portfolio website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cover video in portfolio website" />
+    <MESSAGE value="portfolio website" />
+    <option name="LAST_COMMIT_MESSAGE" value="portfolio website" />
   </component>
 </project>
